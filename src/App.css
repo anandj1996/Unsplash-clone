@@ -1,0 +1,20 @@
+.App{
+  text-align: center;
+}
+.mydiv{
+  display: flex;
+  justify-content: space-around;
+  margin: 40px 10%;
+  box-shadow: 1px 1px 5px rgb(240, 165, 165);
+  padding: 10px;
+}
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.item{
+  width: 30%;
+  /* height: 30%; */
+  margin: 5px;
+}
